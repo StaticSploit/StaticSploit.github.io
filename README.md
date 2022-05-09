@@ -1,1 +1,1 @@
-# StaticSploit.github.io
+# StaticSploit.github.io/index.html
